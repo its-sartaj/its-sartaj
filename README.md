@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm <span style="color: #38bdf8;">Sartaj</span>
