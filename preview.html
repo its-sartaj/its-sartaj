@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sartaj | Animated GitHub Profile Portfolio Preview</title>
+  <style>
+    :root {
+      color-scheme: dark;
+    }
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+    .container {
+      max-width: 900px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+    .section-wrapper {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 18px;
+      padding: 12px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+      transition: border-color 0.3s ease;
+    }
+    .section-wrapper:hover {
+      border-color: #38bdf8;
+    }
+    img.portfolio-svg {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 12px;
+    }
+    .badge-bar {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin: 10px 0;
+    }
+    .projects-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+      font-size: 14px;
+    }
+    .projects-table th {
+      background: #21262d;
+      color: #58a6ff;
+      padding: 12px;
+      text-align: left;
+      border-bottom: 2px solid #30363d;
+    }
+    .projects-table td {
+      padding: 14px 12px;
+      border-bottom: 1px solid #21262d;
+      vertical-align: top;
+    }
+    .projects-table tr:hover {
+      background: rgba(56, 189, 248, 0.05);
+    }
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 6px;
+      background: rgba(56, 189, 248, 0.15);
+      color: #38bdf8;
+      font-size: 11px;
+      font-family: monospace;
+      margin: 2px;
+      border: 1px solid rgba(56, 189, 248, 0.3);
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    h2 {
+      color: #f0f6fc;
+      border-bottom: 1px solid #21262d;
+      padding-bottom: 8px;
+      margin-top: 24px;
+      margin-bottom: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    
+    <!-- 1. HERO -->
+    <div class="section-wrapper">
+      <img class="portfolio-svg" src="./assets/hero.svg" alt="Camera Viewfinder Hero with Waving Developer &amp; Cycling Roles" />
+    </div>
+
+    <!-- 2. WHAT I BUILD & HOBBIES CAROUSEL -->
+    <div class="section-wrapper">
+      <img class="portfolio-svg" src="./assets/what_i_build_and_hobbies.svg" alt="What I Build Panels &amp; Story-Style Hobbies Carousel" />
+    </div>
+
+    <!-- 3. TECH ORBIT -->
+    <div class="section-wrapper">
+      <img class="portfolio-svg" src="./assets/tech_orbit.svg" alt="Orbiting Tech Stack with Atom Core &amp; Skill Chip Grid" />
+    </div>
+
+    <!-- 4. ID BADGE & DEV DASHBOARD -->
+    <div class="section-wrapper">
+      <img class="portfolio-svg" src="./assets/id_badge_dashboard.svg" alt="Swinging Holographic ID Badge &amp; Real-Time Dev Telemetry" />
+    </div>
+
+    <!-- 5. FEATURED PROJECTS -->
+    <div class="section-wrapper" style="padding: 24px;">
+      <h2 style="margin-top: 0;">🚀 Featured Production Engineering</h2>
+      <table class="projects-table">
+        <thead>
+          <tr>
+            <th>Project</th>
+            <th>Architecture &amp; Capabilities</th>
+            <th>Tech Stack</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>🏪 Khurshid General Store</strong><br/><span style="color:#8b949e; font-size:12px;">Retail POS &amp; Cloud Kirana</span></td>
+            <td>Real-time multi-counter billing, computerized GST invoice with Hindi currency words converter, dynamic UPI QR payments, 1-click WhatsApp ordering &amp; multi-device cloud inventory sync.</td>
+            <td>
+              <span class="tag">React 19</span>
+              <span class="tag">TypeScript</span>
+              <span class="tag">Tailwind v4</span>
+              <span class="tag">Firebase DB</span>
+            </td>
+            <td>
+              <a href="https://its-sartaj.github.io/ganeralstore/" target="_blank">🌐 Live Demo</a><br/>
+              <a href="https://github.com/its-sartaj/ganeralstore" target="_blank">🔗 GitHub</a>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>🏢 Apex Tech Digital Agency</strong><br/><span style="color:#8b949e; font-size:12px;">Creative Agency Portal</span></td>
+            <td>High-performance agency platform with interactive case studies, modal scheduling engine, dynamic project filter grid, and silky smooth motion choreography.</td>
+            <td>
+              <span class="tag">React 19</span>
+              <span class="tag">TypeScript</span>
+              <span class="tag">Framer Motion</span>
+              <span class="tag">Vite</span>
+            </td>
+            <td>
+              <a href="https://its-sartaj.github.io/Apex-Tech/" target="_blank">🌐 Live Demo</a><br/>
+              <a href="https://github.com/its-sartaj/Apex-Tech" target="_blank">🔗 GitHub</a>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>💼 Sajid Tax Consultant Platform</strong><br/><span style="color:#8b949e; font-size:12px;">Financial Advisory Portal</span></td>
+            <td>Corporate enterprise platform for Mumbai consultancy. Features dynamic tax compliance calendars, client intake engine, and automated CI/CD GitHub Actions deployment.</td>
+            <td>
+              <span class="tag">React 19</span>
+              <span class="tag">TypeScript</span>
+              <span class="tag">Tailwind v4</span>
+              <span class="tag">CI/CD</span>
+            </td>
+            <td>
+              <a href="https://its-sartaj.github.io/Sajid_-Tax-Consultant/" target="_blank">🌐 Live Demo</a><br/>
+              <a href="https://github.com/its-sartaj/Sajid_-Tax-Consultant" target="_blank">🔗 GitHub</a>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>🛒 FreshMart E-Commerce</strong><br/><span style="color:#8b949e; font-size:12px;">AI-Powered Grocery Hub</span></td>
+            <td>Next-generation store with instant client-side search, cart calculations in INR (₹), discount engine, logistics management, and Gemini AI integration.</td>
+            <td>
+              <span class="tag">React 19</span>
+              <span class="tag">Gemini AI</span>
+              <span class="tag">Recharts</span>
+              <span class="tag">Tailwind</span>
+            </td>
+            <td>
+              <a href="https://github.com/its-sartaj/Grocery" target="_blank">🔗 GitHub</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 6. 3D CONTRIBUTION CITY -->
+    <div class="section-wrapper">
+      <img class="portfolio-svg" src="./assets/contribution_city.svg" alt="3D Isometric Contribution City Skyline" />
+    </div>
+
+    <!-- 7. CONNECT FOOTER -->
+    <div class="section-wrapper">
+      <img class="portfolio-svg" src="./assets/connect_footer.svg" alt="Connect with Sartaj - Character &amp; Neon Sign" />
+    </div>
+
+  </div>
+
+</body>
+</html>
