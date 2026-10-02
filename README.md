@@ -3,33 +3,33 @@
 # ⚡ S A R T A J
 ### 🚀 Full-Stack Web Developer | React 19 & TypeScript Architect | Cybersecurity Specialist
 
-[![Profile Views](https://komarev.com/ghpvc/?username=its-sartaj&color=38bdf8&style=for-the-badge&label=Profile+Views)](https://github.com/its-sartaj)
+[![Profile Views](https://komarev.com/ghpvc/?username=its-sartaj&color=22d3ee&style=for-the-badge&label=Profile+Views)](https://github.com/its-sartaj)
 [![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:mrbeast797996@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/its-sartaj?style=for-the-badge&logo=github&color=24292e)](https://github.com/its-sartaj)
+[![GitHub Followers](https://img.shields.io/github/followers/its-sartaj?style=for-the-badge&logo=github&color=0d0e16)](https://github.com/its-sartaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-sartaj.github.io/Apex-Tech/)
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-sartaj.github.io/Apex-Tech/)
 
 ---
 
-<!-- 1. VIDEO HERO (Camera Viewfinder + Animated Character + Cycling Roles) -->
+<!-- 1. HERO (Viewfinder Video Loop + Cycling Roles + Collabs Pill + Meta Row) -->
 <a href="https://github.com/its-sartaj">
-  <img src="./assets/hero.svg" alt="Sartaj - Hero Camera Viewfinder with Waving Developer & Cycling Roles" width="100%" />
+  <img src="./hero.svg?v=1" alt="Sartaj - Camera Viewfinder Hero Video & Cycling Roles" width="100%" />
 </a>
 
 <br/><br/>
 
-<!-- 2 & 3. WHAT I BUILD & HOBBIES CAROUSEL (Dual Panels + Story Progress Bars) -->
-<img src="./assets/what_i_build_and_hobbies.svg" alt="What I Build Panels & Story-Style Hobbies Carousel" width="100%" />
+<!-- 2. ABOUT & LIFE (Fake Browser Capabilities + Hobbies Carousel + Daily Rings) -->
+<img src="./about-life.svg?v=1" alt="Sartaj - Capabilities & Hobbies Story Carousel with Daily Activity Rings" width="100%" />
 
 <br/><br/>
 
-<!-- 4. TECH ORBIT (Real brand icons orbiting atom core + Chip Grid) -->
-<img src="./assets/tech_orbit.svg" alt="Orbiting Tech Stack with Atom Core & Skill Chip Matrix" width="100%" />
+<!-- 3. STACK (Orbiting Tech Core with Moons + Grouped Sequential Chip Grid) -->
+<img src="./stack.svg?v=1" alt="Sartaj - Orbiting Tech Universe with React Moons & Grouped Chip Grid" width="100%" />
 
 <br/><br/>
 
-<!-- 5. ID BADGE + LIVE DASHBOARD (Swinging Holographic Card + Live Stats + Bar Chart) -->
-<img src="./assets/id_badge_dashboard.svg" alt="Swinging Holographic ID Badge & Live Telemetry Dashboard" width="100%" />
+<!-- 4. ID BADGE & DASHBOARD (Swinging Holographic Lanyard Badge + Starred Repos Bar Chart) -->
+<img src="./id-dashboard.svg?v=1" alt="Sartaj - Swinging Lanyard ID Badge & Dev Telemetry Dashboard" width="100%" />
 
 <br/>
 
@@ -53,13 +53,13 @@
 
 <br/>
 
-<!-- 6. 3D CONTRIBUTION CITY (Commits become an isometric night skyline) -->
+<!-- 5. 3D CONTRIBUTION CITY (Commits become an isometric night skyline, refreshed daily) -->
 <div align="center">
 
-### 🏙️ 3D Contribution City — Annual Skyline Matrix
-<p align="center"><em>Every skyscraper represents daily commit velocity, built into an illuminated cyberpunk skyline.</em></p>
+### 🏙️ 3D Contribution City — Annual Commit Skyline
+<p align="center"><em>Daily commit velocity rendered as an illuminated cyberpunk skyline, rebuilt automatically every day via GitHub Actions.</em></p>
 
-<img src="./assets/contribution_city.svg" alt="3D Isometric Contribution City Skyline" width="100%" />
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="Sartaj's 3D Contribution City Skyline" width="100%" />
 
 <br/><br/>
 
@@ -75,17 +75,17 @@
 
 ---
 
-<!-- 7. CONNECT FOOTER (Character pointing at links + Neon handwritten sign) -->
+<!-- 6. CONNECT FOOTER (Pointing character + Neon handwritten sign + Nudging link cards) -->
 <div align="center">
 
-<img src="./assets/connect_footer.svg" alt="Connect with Sartaj - Character pointing at link card with neon handwritten sign" width="100%" />
+<img src="./connect.svg?v=1" alt="Connect with Sartaj - Character pointing at link card with neon handwritten sign" width="100%" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-sartaj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrbeast797996@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-sartaj.github.io/Apex-Tech/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-sartaj.github.io/Apex-Tech/)
 
 <br/>
 
