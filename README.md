@@ -1,10 +1,10 @@
 <div align="center">
 
 # ⚡ S A R T A J
-### 🚀 Full-Stack Web Developer | React 19 & TypeScript Architect | Cybersecurity Specialist
+### 🚀 Full-Stack Web Developer | React 19 & TypeScript Architect | Cybersecurity Basic
 
 [![Profile Views](https://komarev.com/ghpvc/?username=its-sartaj&color=22d3ee&style=for-the-badge&label=Profile+Views)](https://github.com/its-sartaj)
-[![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:mrbeast797996@gmail.com)
+[![Available for Hire](https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:apextech.servicess@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/its-sartaj?style=for-the-badge&logo=github&color=0d0e16)](https://github.com/its-sartaj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-sartaj.github.io/Apex-Tech/)
@@ -84,7 +84,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-sartaj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrbeast797996@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apextech.servicess@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-22d3ee?style=for-the-badge&logo=google-chrome&logoColor=white)](https://its-sartaj.github.io/Apex-Tech/)
 
 <br/>
