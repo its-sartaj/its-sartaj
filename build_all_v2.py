@@ -383,7 +383,7 @@ about_life_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 46
         <rect width="385" height="76" rx="10" fill="url(#cardGrad)" stroke="rgba(244, 114, 182, 0.25)" stroke-width="1" />
         <rect x="12" y="14" width="48" height="48" rx="8" fill="rgba(244, 114, 182, 0.12)" stroke="#f472b6" stroke-width="1" />
         <text x="36" y="44" font-size="22" text-anchor="middle">🤖</text>
-        <text x="70" y="32" fill="#f472b6" font-size="13" font-weight="700">AI Integration &amp; Cloud Security</text>
+        <text x="70" y="32" fill="#f472b6" font-size="13" font-weight="700">AI Integration</text>
         <text x="70" y="50" fill="#cbd5e1" font-size="11">Google Gemini AI APIs, Node.js, Express &amp; Firebase Cloud DB.</text>
         <text x="70" y="64" fill="#94a3b8" font-size="10.5">Hardened Linux administration, network audits &amp; defense.</text>
       </g>
@@ -1159,7 +1159,7 @@ connect_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" 
       <circle cx="36" cy="33" r="18" fill="#450a0a" stroke="#ef4444" stroke-width="1" />
       <text x="36" y="40" font-size="16" text-anchor="middle">✉️</text>
       <text x="68" y="27" fill="#f8fafc" font-size="14" font-weight="700">Direct Email Inquiries</text>
-      <text x="68" y="47" fill="#94a3b8" font-size="11.5">mrbeast797996@gmail.com • Inquiries &amp; hiring discussions</text>
+      <text x="68" y="47" fill="#94a3b8" font-size="11.5">apextech.servicess@gmail.com • Inquiries &amp; hiring discussions</text>
       <g class="arrow-nudge" transform="translate(390, 33)">
         <circle cx="0" cy="0" r="14" fill="rgba(239, 68, 68, 0.2)" stroke="#ef4444" stroke-width="1" />
         <path d="M -4 -4 L 3 0 L -4 4" fill="none" stroke="#f87171" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
