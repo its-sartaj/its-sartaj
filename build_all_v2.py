@@ -973,40 +973,46 @@ id_dashboard_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 
     </g>
 
     <!-- Single-Hue Bar Chart -->
-    <g transform="translate(18, 120)">
-      <rect width="459" height="182" rx="10" fill="rgba(13, 14, 22, 0.85)" stroke="rgba(34, 211, 238, 0.2)" stroke-width="1" />
-      <text x="16" y="22" fill="#f8fafc" font-size="12" font-weight="700">⭐ Most-Starred Production Repositories</text>
-      <text x="440" y="22" fill="#22d3ee" font-size="10" font-family="monospace" text-anchor="end">METRIC: STAR VELOCITY</text>
+    <g transform="translate(18, 118)">
+      <rect width="459" height="186" rx="10" fill="rgba(13, 14, 22, 0.85)" stroke="rgba(34, 211, 238, 0.2)" stroke-width="1" />
+      <text x="16" y="20" fill="#f8fafc" font-size="12" font-weight="700">⭐ Top Production Repositories</text>
+      <text x="440" y="20" fill="#22d3ee" font-size="10" font-family="monospace" text-anchor="end">METRIC: STAR VELOCITY</text>
 
-      <g transform="translate(16, 42)">
-        <text x="0" y="14" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">ganeralstore</text>
-        <rect x="120" y="3" width="250" height="15" rx="4" fill="rgba(34, 211, 238, 0.15)" />
-        <rect class="repo-bar" x="120" y="3" width="245" height="15" rx="4" fill="#22d3ee" />
-        <text x="375" y="15" fill="#22d3ee" font-size="11" font-family="monospace" font-weight="bold">142 ★</text>
+      <g transform="translate(16, 36)">
+        <text x="0" y="13" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">BARAKA-Bizz</text>
+        <rect x="120" y="2" width="245" height="13" rx="4" fill="rgba(34, 211, 238, 0.15)" />
+        <rect class="repo-bar" x="120" y="2" width="240" height="13" rx="4" fill="#22d3ee" />
+        <text x="372" y="13" fill="#22d3ee" font-size="10.5" font-family="monospace" font-weight="bold">158 ★</text>
       </g>
-      <g transform="translate(16, 68)">
-        <text x="0" y="14" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Apex-Tech</text>
-        <rect x="120" y="3" width="250" height="15" rx="4" fill="rgba(34, 211, 238, 0.15)" />
-        <rect class="repo-bar" x="120" y="3" width="205" height="15" rx="4" fill="#06b6d4" />
-        <text x="335" y="15" fill="#22d3ee" font-size="11" font-family="monospace" font-weight="bold">118 ★</text>
+      <g transform="translate(16, 59)">
+        <text x="0" y="13" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">ganeralstore</text>
+        <rect x="120" y="2" width="245" height="13" rx="4" fill="rgba(34, 211, 238, 0.15)" />
+        <rect class="repo-bar" x="120" y="2" width="215" height="13" rx="4" fill="#06b6d4" />
+        <text x="345" y="13" fill="#22d3ee" font-size="10.5" font-family="monospace" font-weight="bold">142 ★</text>
       </g>
-      <g transform="translate(16, 94)">
-        <text x="0" y="14" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Sajid-Tax</text>
-        <rect x="120" y="3" width="250" height="15" rx="4" fill="rgba(34, 211, 238, 0.15)" />
-        <rect class="repo-bar" x="120" y="3" width="168" height="15" rx="4" fill="#0891b2" />
-        <text x="298" y="15" fill="#22d3ee" font-size="11" font-family="monospace" font-weight="bold">96 ★</text>
+      <g transform="translate(16, 82)">
+        <text x="0" y="13" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Apex-Tech</text>
+        <rect x="120" y="2" width="245" height="13" rx="4" fill="rgba(34, 211, 238, 0.15)" />
+        <rect class="repo-bar" x="120" y="2" width="180" height="13" rx="4" fill="#0891b2" />
+        <text x="310" y="13" fill="#22d3ee" font-size="10.5" font-family="monospace" font-weight="bold">118 ★</text>
       </g>
-      <g transform="translate(16, 120)">
-        <text x="0" y="14" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Grocery</text>
-        <rect x="120" y="3" width="250" height="15" rx="4" fill="rgba(34, 211, 238, 0.15)" />
-        <rect class="repo-bar" x="120" y="3" width="145" height="15" rx="4" fill="#0e7490" />
-        <text x="275" y="15" fill="#22d3ee" font-size="11" font-family="monospace" font-weight="bold">84 ★</text>
+      <g transform="translate(16, 105)">
+        <text x="0" y="13" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Leovra</text>
+        <rect x="120" y="2" width="245" height="13" rx="4" fill="rgba(34, 211, 238, 0.15)" />
+        <rect class="repo-bar" x="120" y="2" width="155" height="13" rx="4" fill="#0e7490" />
+        <text x="285" y="13" fill="#22d3ee" font-size="10.5" font-family="monospace" font-weight="bold">104 ★</text>
       </g>
-      <g transform="translate(16, 146)">
-        <text x="0" y="14" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Delivery-boys</text>
-        <rect x="120" y="3" width="250" height="15" rx="4" fill="rgba(34, 211, 238, 0.15)" />
-        <rect class="repo-bar" x="120" y="3" width="125" height="15" rx="4" fill="#155e75" />
-        <text x="255" y="15" fill="#22d3ee" font-size="11" font-family="monospace" font-weight="bold">72 ★</text>
+      <g transform="translate(16, 128)">
+        <text x="0" y="13" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Sajid-Tax</text>
+        <rect x="120" y="2" width="245" height="13" rx="4" fill="rgba(34, 211, 238, 0.15)" />
+        <rect class="repo-bar" x="120" y="2" width="135" height="13" rx="4" fill="#155e75" />
+        <text x="265" y="13" fill="#22d3ee" font-size="10.5" font-family="monospace" font-weight="bold">96 ★</text>
+      </g>
+      <g transform="translate(16, 151)">
+        <text x="0" y="13" fill="#cbd5e1" font-size="11" font-family="monospace" font-weight="600">Grocery</text>
+        <rect x="120" y="2" width="245" height="13" rx="4" fill="rgba(34, 211, 238, 0.15)" />
+        <rect class="repo-bar" x="120" y="2" width="115" height="13" rx="4" fill="#164e63" />
+        <text x="245" y="13" fill="#22d3ee" font-size="10.5" font-family="monospace" font-weight="bold">84 ★</text>
       </g>
     </g>
 
@@ -1024,8 +1030,8 @@ id_dashboard_svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 
         <rect x="20" y="0" width="3" height="12" fill="#22d3ee" style="animation: eqLive5 0.65s infinite alternate;" />
       </g>
 
-      <text x="16" y="44" fill="#f8fafc" font-size="11.5" font-family="monospace" font-weight="700">&gt; Building Next-Gen Cloud POS Billing &amp; AI-Driven Retail Systems</text>
-      <text x="16" y="59" fill="#94a3b8" font-size="10.5" font-family="monospace">&gt; git commit -m &quot;feat: real-time stock sync &amp; UPI QR invoice&quot;</text>
+      <text x="16" y="44" fill="#f8fafc" font-size="11.5" font-family="monospace" font-weight="700">&gt; Building Next-Gen Cloud POS, B2B Wholesale &amp; Enterprise Platforms</text>
+      <text x="16" y="59" fill="#94a3b8" font-size="10.5" font-family="monospace">&gt; git commit -m &quot;feat: real-time Firebase RTDB, OTP verify &amp; auto invoices&quot;</text>
     </g>
   </g>
 </svg>'''
