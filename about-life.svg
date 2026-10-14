@@ -99,10 +99,10 @@
     <!-- Mini Terminal Illustration -->
     <g transform="translate(15, 48)">
       <rect width="385" height="85" rx="8" fill="rgba(9, 10, 16, 0.9)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="0.8" />
-      <text x="14" y="24" fill="#a78bfa" font-size="11" font-family="monospace">const engineer = new FullStackArchitect(&#123;</text>
-      <text x="28" y="44" fill="#cbd5e1" font-size="11" font-family="monospace">frontend: [&quot;React 19&quot;, &quot;TypeScript&quot;, &quot;Tailwind v4&quot;],</text>
-      <text x="28" y="62" fill="#22d3ee" font-size="11" font-family="monospace">impact: &quot;Real-World POS Billing, Cloud Sync &amp; AI Tools&quot;</text>
-      <text x="14" y="78" fill="#a78bfa" font-size="11" font-family="monospace">&#125;);</text>
+      <text x="14" y="24" fill="#a78bfa" font-size="11" font-family="monospace">const developer = &#123;</text>
+      <text x="28" y="44" fill="#cbd5e1" font-size="11" font-family="monospace">skills: [&quot;React&quot;, &quot;TypeScript&quot;, &quot;Node.js&quot;, &quot;Tailwind&quot;],</text>
+      <text x="28" y="62" fill="#22d3ee" font-size="11" font-family="monospace">focus: &quot;Building practical web apps that solve real problems&quot;</text>
+      <text x="14" y="78" fill="#a78bfa" font-size="11" font-family="monospace">&#125;;</text>
     </g>
 
     <!-- 3 Capability Rows with Icon Tiles -->
@@ -121,18 +121,18 @@
         <rect width="385" height="76" rx="10" fill="url(#cardGrad)" stroke="rgba(167, 139, 250, 0.25)" stroke-width="1" />
         <rect x="12" y="14" width="48" height="48" rx="8" fill="rgba(167, 139, 250, 0.12)" stroke="#a78bfa" stroke-width="1" />
         <text x="36" y="44" font-size="22" text-anchor="middle">⚛️</text>
-        <text x="70" y="32" fill="#a78bfa" font-size="13" font-weight="700">High-Performance Web Frontends</text>
-        <text x="70" y="50" fill="#cbd5e1" font-size="11">Engineered with React 19, TypeScript, Tailwind v4 &amp; Vite.</text>
-        <text x="70" y="64" fill="#94a3b8" font-size="10.5">Fluid motion choreography, type safety &amp; instant zero jank.</text>
+        <text x="70" y="32" fill="#a78bfa" font-size="13" font-weight="700">Modern Frontend Development</text>
+        <text x="70" y="50" fill="#cbd5e1" font-size="11">Clean React &amp; TypeScript code with responsive layouts.</text>
+        <text x="70" y="64" fill="#94a3b8" font-size="10.5">Fast page loads, accessible UI &amp; thoughtful user interactions.</text>
       </g>
       <!-- Capability 3 -->
       <g transform="translate(0, 172)">
         <rect width="385" height="76" rx="10" fill="url(#cardGrad)" stroke="rgba(244, 114, 182, 0.25)" stroke-width="1" />
         <rect x="12" y="14" width="48" height="48" rx="8" fill="rgba(244, 114, 182, 0.12)" stroke="#f472b6" stroke-width="1" />
         <text x="36" y="44" font-size="22" text-anchor="middle">🤖</text>
-        <text x="70" y="32" fill="#f472b6" font-size="13" font-weight="700">AI Integration</text>
-        <text x="70" y="50" fill="#cbd5e1" font-size="11">Google Gemini AI APIs, Node.js, Express &amp; Firebase Cloud DB.</text>
-        <text x="70" y="64" fill="#94a3b8" font-size="10.5">Hardened Linux administration, network audits &amp; defense.</text>
+        <text x="70" y="32" fill="#f472b6" font-size="13" font-weight="700">Full-Stack &amp; Cloud Backends</text>
+        <text x="70" y="50" fill="#cbd5e1" font-size="11">Node.js, Express, Firebase Realtime DB &amp; RESTful APIs.</text>
+        <text x="70" y="64" fill="#94a3b8" font-size="10.5">Secure authentication, data sync &amp; Linux server workflows.</text>
       </g>
     </g>
   </g>
@@ -166,55 +166,55 @@
     <g class="c-slide-1" transform="translate(15, 65)">
       <rect width="385" height="185" rx="10" fill="url(#cardGrad)" stroke="rgba(34, 211, 238, 0.25)" stroke-width="1" />
       <text x="20" y="38" font-size="28">☕</text>
-      <text x="65" y="32" fill="#22d3ee" font-size="14.5" font-weight="800">Specialty Dark Roast Coffee</text>
-      <text x="65" y="48" fill="#94a3b8" font-size="11">Midnight Brewing &amp; Code Refactoring</text>
-      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">The Caption:</text>
-      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">Pour-over brews fueling zero-bug midnight release sprints.</text>
-      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">Extracting peak aroma while untangling recursive state trees.</text>
+      <text x="65" y="32" fill="#22d3ee" font-size="14.5" font-weight="800">Late-Night Coding &amp; Coffee</text>
+      <text x="65" y="48" fill="#94a3b8" font-size="11">Midnight Builds &amp; Focus Sprints</text>
+      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">Behind the Code:</text>
+      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">A hot cup of coffee to power through late-night debugging</text>
+      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">and building responsive web applications from scratch.</text>
       <rect x="20" y="142" width="105" height="22" rx="11" fill="rgba(34, 211, 238, 0.15)" />
-      <text x="72" y="157" fill="#22d3ee" font-size="10" font-weight="700" text-anchor="middle">#DarkRoast</text>
+      <text x="72" y="157" fill="#22d3ee" font-size="10" font-weight="700" text-anchor="middle">#NightOwl</text>
       <rect x="135" y="142" width="115" height="22" rx="11" fill="rgba(34, 211, 238, 0.15)" />
-      <text x="192" y="157" fill="#22d3ee" font-size="10" font-weight="700" text-anchor="middle">#MidnightCoder</text>
+      <text x="192" y="157" fill="#22d3ee" font-size="10" font-weight="700" text-anchor="middle">#CoffeeFueled</text>
     </g>
 
     <g class="c-slide-2" transform="translate(15, 65)">
       <rect width="385" height="185" rx="10" fill="url(#cardGrad)" stroke="rgba(167, 139, 250, 0.25)" stroke-width="1" />
       <text x="20" y="38" font-size="28">🛡️</text>
-      <text x="65" y="32" fill="#a78bfa" font-size="14.5" font-weight="800">Cybersecurity Labs &amp; CTFs</text>
-      <text x="65" y="48" fill="#94a3b8" font-size="11">Ethical Hacking &amp; Network Defense</text>
-      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">The Caption:</text>
-      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">Ethical hacking, Kali Linux &amp; network vulnerability auditing.</text>
-      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">Penetration testing web targets so data never leaks.</text>
+      <text x="65" y="32" fill="#a78bfa" font-size="14.5" font-weight="800">Cybersecurity &amp; Linux Labs</text>
+      <text x="65" y="48" fill="#94a3b8" font-size="11">Exploring Security &amp; CTF Challenges</text>
+      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">Behind the Code:</text>
+      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">Setting up virtual labs, exploring Kali Linux tooling,</text>
+      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">and learning defensive web application security practices.</text>
       <rect x="20" y="142" width="105" height="22" rx="11" fill="rgba(167, 139, 250, 0.15)" />
       <text x="72" y="157" fill="#a78bfa" font-size="10" font-weight="700" text-anchor="middle">#KaliLinux</text>
       <rect x="135" y="142" width="115" height="22" rx="11" fill="rgba(167, 139, 250, 0.15)" />
-      <text x="192" y="157" fill="#a78bfa" font-size="10" font-weight="700" text-anchor="middle">#InfosecLabs</text>
+      <text x="192" y="157" fill="#a78bfa" font-size="10" font-weight="700" text-anchor="middle">#SecurityLabs</text>
     </g>
 
     <g class="c-slide-3" transform="translate(15, 65)">
       <rect width="385" height="185" rx="10" fill="url(#cardGrad)" stroke="rgba(244, 114, 182, 0.25)" stroke-width="1" />
       <text x="20" y="38" font-size="28">🎮</text>
-      <text x="65" y="32" fill="#f472b6" font-size="14.5" font-weight="800">Indie Games &amp; Cyberpunk Worlds</text>
-      <text x="65" y="48" fill="#94a3b8" font-size="11">Game Physics &amp; Synthwave Aesthetics</text>
-      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">The Caption:</text>
-      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">World mechanics, low-poly aesthetics &amp; cyberpunk sound design.</text>
-      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">Studying smooth 60 FPS shaders to bring fluid motion to web UI.</text>
+      <text x="65" y="32" fill="#f472b6" font-size="14.5" font-weight="800">Indie Games &amp; UI Design</text>
+      <text x="65" y="48" fill="#94a3b8" font-size="11">Gaming Aesthetics &amp; Micro-Interactions</text>
+      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">Behind the Code:</text>
+      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">Big fan of indie and retro games. I love studying sound design</text>
+      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">and micro-animations to bring that extra polish into web UI.</text>
       <rect x="20" y="142" width="105" height="22" rx="11" fill="rgba(244, 114, 182, 0.15)" />
-      <text x="72" y="157" fill="#f472b6" font-size="10" font-weight="700" text-anchor="middle">#Cyberpunk</text>
+      <text x="72" y="157" fill="#f472b6" font-size="10" font-weight="700" text-anchor="middle">#Gaming</text>
       <rect x="135" y="142" width="115" height="22" rx="11" fill="rgba(244, 114, 182, 0.15)" />
-      <text x="192" y="157" fill="#f472b6" font-size="10" font-weight="700" text-anchor="middle">#IndieDev</text>
+      <text x="192" y="157" fill="#f472b6" font-size="10" font-weight="700" text-anchor="middle">#UIDesign</text>
     </g>
 
     <g class="c-slide-4" transform="translate(15, 65)">
       <rect width="385" height="185" rx="10" fill="url(#cardGrad)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" />
       <text x="20" y="38" font-size="28">🎧</text>
-      <text x="65" y="32" fill="#38bdf8" font-size="14.5" font-weight="800">Lo-Fi Beats &amp; System Architecture</text>
-      <text x="65" y="48" fill="#94a3b8" font-size="11">Distributed Topologies &amp; Chill Grooves</text>
-      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">The Caption:</text>
-      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">Designing distributed microservices to relaxed 70 BPM grooves.</text>
-      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">Sketching caching tiers, database shards, and pub/sub queues.</text>
+      <text x="65" y="32" fill="#38bdf8" font-size="14.5" font-weight="800">Lo-Fi Playlists &amp; Architecture</text>
+      <text x="65" y="48" fill="#94a3b8" font-size="11">Deep Focus &amp; System Wireframing</text>
+      <text x="20" y="85" fill="#f8fafc" font-size="12.5" font-weight="600">Behind the Code:</text>
+      <text x="20" y="105" fill="#cbd5e1" font-size="11.5">Coding with chill lo-fi instrumentals in the background.</text>
+      <text x="20" y="123" fill="#cbd5e1" font-size="11.5">Sketching clean component trees, database models &amp; flows.</text>
       <rect x="20" y="142" width="105" height="22" rx="11" fill="rgba(56, 189, 248, 0.15)" />
-      <text x="72" y="157" fill="#38bdf8" font-size="10" font-weight="700" text-anchor="middle">#SystemDesign</text>
+      <text x="72" y="157" fill="#38bdf8" font-size="10" font-weight="700" text-anchor="middle">#DeepFocus</text>
       <rect x="135" y="142" width="115" height="22" rx="11" fill="rgba(56, 189, 248, 0.15)" />
       <text x="192" y="157" fill="#38bdf8" font-size="10" font-weight="700" text-anchor="middle">#LoFiBeats</text>
     </g>
@@ -231,21 +231,21 @@
         <circle class="ring-3" cx="0" cy="0" r="18" fill="none" stroke="#f472b6" stroke-width="8" stroke-linecap="round" />
       </g>
       <g transform="translate(160, 22)">
-        <text y="0" fill="#f8fafc" font-size="11.5" font-weight="700" letter-spacing="0.5">DAILY DEV ACTIVITY RINGS</text>
+        <text y="0" fill="#f8fafc" font-size="11.5" font-weight="700" letter-spacing="0.5">DAILY ROUTINE &amp; HABITS</text>
         <g transform="translate(0, 18)">
           <circle cx="5" cy="5" r="4.5" fill="#22d3ee" />
-          <text x="16" y="9" fill="#22d3ee" font-size="11" font-weight="700">Code Velocity:</text>
-          <text x="96" y="9" fill="#cbd5e1" font-size="11">48+ commits / wk</text>
+          <text x="16" y="9" fill="#22d3ee" font-size="11" font-weight="700">Code Activity:</text>
+          <text x="96" y="9" fill="#cbd5e1" font-size="11">Daily building &amp; pushing</text>
         </g>
         <g transform="translate(0, 42)">
           <circle cx="5" cy="5" r="4.5" fill="#a78bfa" />
           <text x="16" y="9" fill="#a78bfa" font-size="11" font-weight="700">Focus Hours:</text>
-          <text x="96" y="9" fill="#cbd5e1" font-size="11">8.5 hrs / day</text>
+          <text x="96" y="9" fill="#cbd5e1" font-size="11">7-8 hrs deep work</text>
         </g>
         <g transform="translate(0, 66)">
           <circle cx="5" cy="5" r="4.5" fill="#f472b6" />
-          <text x="16" y="9" fill="#f472b6" font-size="11" font-weight="700">Coffee Intake:</text>
-          <text x="96" y="9" fill="#cbd5e1" font-size="11">3 cups dark roast</text>
+          <text x="16" y="9" fill="#f472b6" font-size="11" font-weight="700">Coffee / Tea:</text>
+          <text x="96" y="9" fill="#cbd5e1" font-size="11">2-3 cups / day</text>
         </g>
       </g>
     </g>
